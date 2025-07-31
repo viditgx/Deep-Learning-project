@@ -1,10 +1,15 @@
 Company: CODTECH IT SOLUTIONS
 
 Intern Name: Vidit gupta
+
 Intern ID: CT06DN838
+
 Domain: Data Science
+
 Duration: 6 Weeks
+
 Mentor: Neela Santosh
+
 
 
  Project Title: Deep Learning Model for Image Classification/NLP
